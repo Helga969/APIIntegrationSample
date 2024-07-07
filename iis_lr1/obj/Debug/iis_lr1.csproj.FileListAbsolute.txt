@@ -1,0 +1,17 @@
+G:\OOP\iis_lr1\iis_lr1\bin\Debug\iis_lr1.exe
+G:\OOP\iis_lr1\iis_lr1\bin\Debug\iis_lr1.pdb
+G:\OOP\iis_lr1\iis_lr1\obj\Debug\iis_lr1.csproj.AssemblyReference.cache
+G:\OOP\iis_lr1\iis_lr1\obj\Debug\iis_lr1.csproj.ResolveComReference.cache
+G:\OOP\iis_lr1\iis_lr1\obj\Debug\iis_lr1.Form1.resources
+G:\OOP\iis_lr1\iis_lr1\obj\Debug\iis_lr1.Properties.Resources.resources
+G:\OOP\iis_lr1\iis_lr1\obj\Debug\iis_lr1.csproj.GenerateResource.cache
+G:\OOP\iis_lr1\iis_lr1\obj\Debug\iis_lr1.csproj.CoreCompileInputs.cache
+G:\OOP\iis_lr1\iis_lr1\obj\Debug\iis_lr1.exe
+G:\OOP\iis_lr1\iis_lr1\obj\Debug\iis_lr1.pdb
+G:\OOP\iis_lr1\iis_lr1\bin\Debug\postavka.docx
+G:\OOP\iis_lr1\iis_lr1\bin\Debug\Dadata.dll
+G:\OOP\iis_lr1\iis_lr1\bin\Debug\Newtonsoft.Json.dll
+G:\OOP\iis_lr1\iis_lr1\bin\Debug\Newtonsoft.Json.xml
+G:\OOP\iis_lr1\iis_lr1\bin\Debug\predoplata.docx
+G:\OOP\iis_lr1\iis_lr1\obj\Debug\iis_lr1.csproj.Up2Date
+G:\OOP\iis_lr1\iis_lr1\bin\Debug\iis_lr1.exe.config
